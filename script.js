@@ -18,7 +18,7 @@ var buttonD = document.getElementById("d");
 var quizQuestions = [{
     question: "What is a function?",
     choiceA: "A set of statements that performs a task or calculates a value",
-    choiceB: "A set of statements that performs a song and ",
+    choiceB: "A set of statements that performs a song and dance",
     choiceC: "A set of statements that gives you a designanted outcome",
     choiceD: "A set of questions that performs or calculates a shape or object",
     correctAnswer: "a"
